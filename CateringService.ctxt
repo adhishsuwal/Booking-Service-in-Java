@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=compName\ pPlateRate\ caterType
+comment0.target=void\ addCatering(java.lang.String,\ int,\ java.lang.String)
+comment0.text=\ \r\n\ This\ is\ a\ public\ method\ that\ lets\ users\ add\ catering\ service\ to\ the\ array\ list.\ It\ adds\ objects\ of\ the\ previous\ class\ to\ the\ list.\r\n
+comment1.params=index
+comment1.target=void\ removeCatering(int)
+comment1.text=\r\n\ This\ is\ a\ public\ method\ that\ lets\ users\ remove\ objects\ from\ the\ array\ list.\r\n
+comment2.params=index\ custname\ custadd\ bookdate\ dishnum
+comment2.target=void\ bookCatering(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.text=\ \r\n\ This\ is\ a\ public\ method\ that\ lets\ users\ book\ the\ service\ from\ the\ array\ list.\r\n
+comment3.params=index
+comment3.target=void\ freeCatering(int)
+comment3.text=\r\n\ This\ is\ a\ public\ method\ that\ lets\ users\ free\ the\ service\ in\ the\ array\ list.\r\n
+comment4.params=
+comment4.target=void\ listAvailable()
+comment4.text=\r\n\ This\ is\ a\ public\ method\ that\ lists\ all\ the\ available\ objects\ of\ the\ previous\ class\ in\ the\ array\ list.\r\n
+comment5.params=perPlateRate\ CateringType
+comment5.target=void\ searchAvailable(int,\ java.lang.String)
+comment5.text=\r\n\ This\ is\ a\ public\ method\ that\ search\ objects\ of\ the\ previous\ class\ which\ are\ currently\ available.\ \r\n
+numComments=6
